@@ -1,5 +1,10 @@
 # DAP-6
 Bike sales dashboard 
+Industry
+Retail | Marketing
+
+Skills
+Excel | Pivot tables | Data cleaning | Data manipulation | Data visualization | Dashboard | Customer segmentation
 
 Problem statements
 Customer segmentation of bike companies  to help marketing teams target customers better. 
